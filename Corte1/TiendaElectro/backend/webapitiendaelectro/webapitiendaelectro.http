@@ -1,0 +1,6 @@
+@webapitiendaelectro_HostAddress = http://localhost:5001
+
+GET {{webapitiendaelectro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
