@@ -33,3 +33,4 @@ C:\UMDCS\202502\Ciberseguridad\Corte1\TiendaElectro\backend\webapitiendaelectro\
 C:\UMDCS\202502\Ciberseguridad\Corte1\TiendaElectro\backend\webapitiendaelectro\obj\Debug\net9.0\webapitiendaelectro.pdb
 C:\UMDCS\202502\Ciberseguridad\Corte1\TiendaElectro\backend\webapitiendaelectro\obj\Debug\net9.0\webapitiendaelectro.genruntimeconfig.cache
 C:\UMDCS\202502\Ciberseguridad\Corte1\TiendaElectro\backend\webapitiendaelectro\obj\Debug\net9.0\ref\webapitiendaelectro.dll
+C:\UMDCS\202502\Ciberseguridad\Corte1\TiendaElectro\backend\webapitiendaelectro\obj\Debug\net9.0\webapitiendaelectro.sourcelink.json
