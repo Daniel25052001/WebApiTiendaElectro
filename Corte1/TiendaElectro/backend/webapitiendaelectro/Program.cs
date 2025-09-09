@@ -32,7 +32,7 @@ app.MapGet("/paisget", () =>
 })
 .WithName("GetPais");
 
-
+ 
 ///////////////////////////////
 
 app.MapPost("/paispost", (PaisModel paisModel) =>

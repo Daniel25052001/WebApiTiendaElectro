@@ -15,7 +15,8 @@ public string Encryption(string algoritmo, string text){
             case "decimal": return DecimalHelper.EncodeToDecimal(text);
             case "hexadecimal": return HexHelper.EncodeToHex(text);
             case "octal": return OctalHelper.EncodeToOctal(text);
-            default:  return "";
+            case "ascii": return AsciiConverter.Decode(text);        
+                default:  return "";
            
 
     }

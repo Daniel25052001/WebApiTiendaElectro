@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webapitiendaelectro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c110d3cbbaa2d5e56097a79b7d63e76ce400457")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20aa56381adc88fa91ab5d0bd6c0f3b878f0b084")]
 [assembly: System.Reflection.AssemblyProductAttribute("webapitiendaelectro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webapitiendaelectro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,6 +16,7 @@ public class AesDecryption
             case "decimal": return DecimalHelper.DecodeFromDecimal(text);
             case "hexadecimal": return HexHelper.DecodeFromHex(text);
             case "octal": return OctalHelper.DecodeFromOctal(text);
+            case "ascii": return AsciiConverter.Decode(text);
             default: return "";
         }
 
