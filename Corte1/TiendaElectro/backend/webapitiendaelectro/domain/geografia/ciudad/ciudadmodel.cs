@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 namespace domain.geografia.ciudad
 {
     public class CiudadModel

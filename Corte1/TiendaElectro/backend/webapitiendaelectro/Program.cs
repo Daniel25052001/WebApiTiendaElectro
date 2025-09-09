@@ -22,6 +22,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.MapGet("/encrypt", (string algoritmo, string plainText) =>
+{
+    AesEncryption aesEncryption = new AesEncryption();
+    return aesEncryption.Encryption(algoritmo, plainText);
+})
+.WithName("GetEncryption");
+
 //////////////////////////////
 
 app.MapGet("/paisget", () =>
@@ -31,7 +38,7 @@ app.MapGet("/paisget", () =>
 
 })
 .WithName("GetPais");
-
+                                                                                                                                                                                                                                                                        
  
 ///////////////////////////////
 
